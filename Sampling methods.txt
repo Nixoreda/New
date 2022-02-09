@@ -1,0 +1,8 @@
+- Simple random sampling
+- Systematic sampling
+- Stratified sampling
+- Clustered sampling
+- Convenience sampling
+- Quota sampling
+- Judgement Sampling
+- Snowball sampling

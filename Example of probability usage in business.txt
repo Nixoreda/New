@@ -1,0 +1,6 @@
+Sales Forecasting
+Many retail companies use probability to predict the chances that they’ll sell a certain amount of goods in a given day, week, or month.
+
+This allows the companies to predict how much inventory they’ll need. For example, a company might use a forecasting model that tells them the probability of selling at least 100 products on a certain day is 90%.
+
+This means they’ll need to make sure they have at least 100 products on hand to sell (or preferably more) so they don’t run out.

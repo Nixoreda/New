@@ -1,0 +1,11 @@
+- Pearson Correlation
+- Spearman Correlation
+- Chi-Square
+- Paired T-Test
+- Independent T-Test
+- ANOVA
+- Simple Regression
+- Multiple Regression
+- Wilcoxon Rank-Sum Test
+- Wilcoxon Sign-Rank Test
+- Sign Test
